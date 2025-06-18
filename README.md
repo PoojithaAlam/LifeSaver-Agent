@@ -1,8 +1,8 @@
 # 🛟 LifeSaver Agent  
-Automation that cares — built for life’s unexpected moments.
+Automation that cares - built for life’s unexpected moments.
 
 ## 🧠 What is LifeSaver Agent?  
-**LifeSaver Agent** is an emergency-aware automation assistant designed to quietly take over your digital chaos when life gets in the way — whether it's a health issue, travel disruption, or a family emergency.
+**LifeSaver Agent** is an emergency-aware automation assistant designed to quietly take over your digital chaos when life gets in the way - whether it's a health issue, travel disruption, or a family emergency.
 
 This no-code solution was built during the **AI & Automation Hackathon** hosted by SparkUp AI and Zapier, and it’s just the beginning of a truly human-first automation experience.
 
