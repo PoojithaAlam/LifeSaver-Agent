@@ -48,7 +48,11 @@ Just type your message, and LifeSaver Agent takes over.
 - 100% no-code + AI-powered
 
 ---
+## Screenshots
 
+![App Screenshot](https://github.com/PoojithaAlam/LifeSaver-Agent/blob/f7624a19bf5edf877af848282ff5b3059eb94aad/Flowchart.png)
+
+---
 ## 🌱 What We Learned  
 This project challenged us to:
 - Coordinate across multiple platforms with empathy
