@@ -48,7 +48,7 @@ Just type your message, and LifeSaver Agent takes over.
 - 100% no-code + AI-powered
 
 ---
-## Screenshots
+## Flow Chart
 
 ![App Screenshot](https://github.com/PoojithaAlam/LifeSaver-Agent/blob/f7624a19bf5edf877af848282ff5b3059eb94aad/Flowchart.png)
 
